@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    margin-top: 25px;
+    text-align: center;
+}
+.cima{
+    margin: 20px;
+    border: 5px solid white;
+}
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+    text-transform: uppercase;
+}
